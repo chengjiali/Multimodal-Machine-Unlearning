@@ -7,5 +7,5 @@ bash bash/ori.sh
 
 2. Step 2. Unlearn
 ```bash
-bash bash/
+python bash/run.py
 ```
